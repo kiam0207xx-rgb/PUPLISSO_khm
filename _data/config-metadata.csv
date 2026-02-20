@@ -5,11 +5,5 @@ Subject,Themes, true
 language,Language,
 subject,Subjects,true
 genre,Genre, true
-duration, Duration,
-creator, Creator, true
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+creator, Creator, true,
+cast crew, Cast & Crew, true
